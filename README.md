@@ -106,7 +106,7 @@ Production Inference: 0.267ms
 
 ---
 
-## Interview Answer
+##
 *"I optimized a LLaMA-style transformer for production
 inference using TensorRT. Starting from PyTorch FP32 at
 3.429ms, I exported to ONNX then built a TensorRT FP16
