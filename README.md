@@ -110,7 +110,7 @@ Production Inference: 0.267ms
 *"I optimized a LLaMA-style transformer for production
 inference using TensorRT. Starting from PyTorch FP32 at   
 3.429ms, I exported to ONNX then built a TensorRT FP16
-engine. TensorRT performed layer fusion — combining 50+   
+engine. TensorRT performed layer fusion — combining 50+     
 kernel launches into fused operations — selected optimal
 CUDA kernels for the L4 GPU through auto-tuning, and
 routed matrix multiplications to FP16 tensor cores.
