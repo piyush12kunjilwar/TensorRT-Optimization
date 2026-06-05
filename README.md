@@ -36,7 +36,7 @@ After TRT:   RMSNorm+Linear+SwiGLU+Linear
              = 1 HBM round trip
 ```
 
-### 2. Kernel Auto-tuning
+### 2. Kernel Auto-tuning  
 - Tests thousands of CUDA kernel implementations
 - Selects fastest for YOUR specific GPU   
 - Accounts for batch size, sequence length, memory
