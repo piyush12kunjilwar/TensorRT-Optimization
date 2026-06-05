@@ -32,7 +32,7 @@ Before TRT:  RMSNorm → Linear → SwiGLU → Linear
              = 4 HBM round trips
 
 After TRT:   RMSNorm+Linear+SwiGLU+Linear
-             = 1 fused kernel
+             = 1 fused kernel   
              = 1 HBM round trip
 ```
 
