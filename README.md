@@ -53,7 +53,7 @@ After TRT:   RMSNorm+Linear+SwiGLU+Linear
 - In-place operations where safe
 - Optimal memory layout per operation
 - Eliminates redundant allocations
-
+   
 ### 5. CUDA Graph Capture
 - Entire forward pass captured as one graph
 - Single GPU kernel launch per inference
