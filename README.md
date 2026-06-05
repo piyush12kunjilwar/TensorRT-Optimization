@@ -65,7 +65,7 @@ After TRT:   RMSNorm+Linear+SwiGLU+Linear
 ```
 PyTorch Model
      ↓
-ONNX Export (torch.onnx, opset 17, constant folding)
+ONNX Export (torch.onnx, opset 17, constant folding)   
      ↓
 TensorRT Engine Build
   - Layer fusion
