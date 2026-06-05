@@ -68,7 +68,7 @@ PyTorch Model
 ONNX Export (torch.onnx, opset 17, constant folding)   
      ↓
 TensorRT Engine Build
-  - Layer fusion   
+  - Layer fusion      
   - FP16 precision
   - Kernel selection
   - Memory optimization
