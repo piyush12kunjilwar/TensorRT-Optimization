@@ -14,7 +14,7 @@
 | Method | Mean Latency | P95 | vs Baseline | Speedup |
 |--------|-------------|-----|-------------|---------|
 | PyTorch FP32 | 3.429ms | 3.514ms | 1.00x | baseline |
-| PyTorch FP16 | 3.233ms | 3.310ms | 0.94x | 1.06x |  
+| PyTorch FP16 | 3.233ms | 3.310ms | 0.94x | 1.06x |    
 | ONNX Runtime | 6.138ms | 6.484ms | 1.79x | 0.56x |
 | **TensorRT FP16** | **0.267ms** | **0.276ms** | **0.08x** | **12.82x** |
 
