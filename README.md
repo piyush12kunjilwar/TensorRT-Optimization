@@ -38,7 +38,7 @@ After TRT:   RMSNorm+Linear+SwiGLU+Linear
 
 ### 2. Kernel Auto-tuning
 - Tests thousands of CUDA kernel implementations
-- Selects fastest for YOUR specific GPU
+- Selects fastest for YOUR specific GPU   
 - Accounts for batch size, sequence length, memory
 - Why engine build takes 2-5 minutes
 - Result: optimal kernel for every single layer
