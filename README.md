@@ -86,7 +86,7 @@ Production Inference: 0.267ms
 | Normalization | RMSNorm | 15% faster than LayerNorm |
 | Activation | SwiGLU | Better than ReLU/GELU |
 | Attention | Scaled dot-product | Flash Attention compatible |
-| Bias | None | Cleaner gradients |
+| Bias | None | Cleaner gradients |  
 
 ---
 
