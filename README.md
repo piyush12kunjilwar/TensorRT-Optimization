@@ -140,6 +140,6 @@ Python 3.12 · Google Colab Pro
 **Piyush Kunjilwar**
 MS Information Systems — Northeastern University (May 2026)
 [LinkedIn](https://linkedin.com/in/piyush-kunjilwar) ·
-[GitHub](https://github.com/piyush12kunjilwar) ·
+[GitHub](https://github.com/piyush12kunjilwar) ·  
 [Portfolio](https://piyush12kunjilwar.github.io)# TensorRT-Optimization
   
