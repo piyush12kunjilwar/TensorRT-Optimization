@@ -126,7 +126,7 @@ Python 3.12 · Google Colab Pro
 ```   
 
 ---
-
+   
 ## Part of ML Systems Optimization Suite   
 - ✅ Module 1 — Inference Optimization (ONNX + Quantization)
 - ✅ Module 2 — CUDA Kernel Optimization (Triton + Flash Attention)
