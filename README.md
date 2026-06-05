@@ -1,6 +1,6 @@
 # TensorRT Optimization 🚀
 
-> LLaMA-style transformer optimized with TensorRT FP16 —
+> LLaMA-style transformer optimized with TensorRT FP16 —  
 > achieving 12.82x speedup over PyTorch FP32 baseline
 
 ## Hardware
