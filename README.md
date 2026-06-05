@@ -122,7 +122,7 @@ Final result: 0.267ms — 12.82x faster than baseline."*
 ```
 TensorRT 10.14 · ONNX 1.20 · ONNXRuntime 1.24
 PyTorch 2.10 · CUDA 12.8 · NVIDIA L4 GPU
-Python 3.12 · Google Colab Pro
+Python 3.12 · Google Colab Pro  
 ```
 
 ---
