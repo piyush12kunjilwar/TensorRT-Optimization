@@ -61,7 +61,7 @@ After TRT:   RMSNorm+Linear+SwiGLU+Linear
 
 ---
 
-## Optimization Pipeline
+## Optimization Pipeline   
 ```  
 PyTorch Model
      ↓   
