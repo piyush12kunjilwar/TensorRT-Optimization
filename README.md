@@ -62,7 +62,7 @@ After TRT:   RMSNorm+Linear+SwiGLU+Linear
 ---
 
 ## Optimization Pipeline
-```
+```  
 PyTorch Model
      ↓   
 ONNX Export (torch.onnx, opset 17, constant folding)   
