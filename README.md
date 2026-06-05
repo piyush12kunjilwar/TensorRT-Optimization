@@ -79,7 +79,7 @@ Production Inference: 0.267ms
 ```
 
 ---
-
+   
 ## LLaMA Architecture Used
 | Component | Choice | Why |
 |-----------|--------|-----|
