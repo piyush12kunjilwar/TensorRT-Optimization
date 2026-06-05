@@ -28,7 +28,7 @@
 ### 1. Layer Fusion
 ```   
 Before TRT:  RMSNorm → Linear → SwiGLU → Linear
-             = 4 separate kernel launches
+             = 4 separate kernel launches  
              = 4 HBM round trips
 
 After TRT:   RMSNorm+Linear+SwiGLU+Linear
