@@ -50,7 +50,7 @@ After TRT:   RMSNorm+Linear+SwiGLU+Linear
 
 ### 4. Memory Optimization
 - Tensor reuse across layers
-- In-place operations where safe
+- In-place operations where safe   
 - Optimal memory layout per operation
 - Eliminates redundant allocations
    
