@@ -4,7 +4,7 @@
 > achieving 12.82x speedup over PyTorch FP32 baseline
 
 ## Hardware
-- **GPU:** NVIDIA L4 (23.7GB, CUDA Capability 8.9)
+- **GPU:** NVIDIA L4 (23.7GB, CUDA Capability 8.9)   
 - **CUDA:** 12.8 | **TensorRT:** 10.14 | **PyTorch:** 2.10
 
 ---  
