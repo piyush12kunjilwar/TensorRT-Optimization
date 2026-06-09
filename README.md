@@ -105,7 +105,7 @@ Production Inference: 0.267ms
 - Result: World-class training AND inference
 
 ---
-
+   
 ##
 *"I optimized a LLaMA-style transformer for production
 inference using TensorRT. Starting from PyTorch FP32 at   
