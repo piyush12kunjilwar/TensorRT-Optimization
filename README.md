@@ -104,7 +104,7 @@ Production Inference: 0.267ms
 - Deploy with: TensorRT FP16 engine
 - Result: World-class training AND inference
 
----
+---  
    
 ##
 *"I optimized a LLaMA-style transformer for production
