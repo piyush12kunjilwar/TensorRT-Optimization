@@ -83,7 +83,7 @@ Production Inference: 0.267ms
 ## LLaMA Architecture Used
 | Component | Choice | Why |
 |-----------|--------|-----|
-| Normalization | RMSNorm | 15% faster than LayerNorm |
+| Normalization | RMSNorm | 15% faster than LayerNorm |  
 | Activation | SwiGLU | Better than ReLU/GELU |
 | Attention | Scaled dot-product | Flash Attention compatible |
 | Bias | None | Cleaner gradients |     
