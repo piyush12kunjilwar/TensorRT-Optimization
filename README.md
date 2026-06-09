@@ -42,7 +42,7 @@ After TRT:   RMSNorm+Linear+SwiGLU+Linear
 - Accounts for batch size, sequence length, memory
 - Why engine build takes 2-5 minutes
 - Result: optimal kernel for every single layer
-
+   
 ### 3. FP16 Tensor Cores
 - L4 GPU has dedicated FP16 matrix multiply hardware
 - TRT routes all matmuls to tensor cores automatically
