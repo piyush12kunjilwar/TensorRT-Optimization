@@ -34,7 +34,7 @@ Before TRT:  RMSNorm → Linear → SwiGLU → Linear
 After TRT:   RMSNorm+Linear+SwiGLU+Linear
              = 1 fused kernel   
              = 1 HBM round trip
-```
+```  
    
 ### 2. Kernel Auto-tuning  
 - Tests thousands of CUDA kernel implementations
