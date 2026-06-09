@@ -22,7 +22,7 @@
 **Config:** Batch=1, SeqLen=128
 
 ---
-
+  
 ## What TensorRT Does Internally
 
 ### 1. Layer Fusion
