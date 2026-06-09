@@ -8,7 +8,7 @@
 - **CUDA:** 12.8 | **TensorRT:** 10.14 | **PyTorch:** 2.10
 
 ---  
-
+  
 ## Results
    
 | Method | Mean Latency | P95 | vs Baseline | Speedup |
