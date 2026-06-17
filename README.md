@@ -10,7 +10,7 @@
 ---  
   
 ## Results
-   
+     
 | Method | Mean Latency | P95 | vs Baseline | Speedup |  
 |--------|-------------|-----|-------------|---------|   
 | PyTorch FP32 | 3.429ms | 3.514ms | 1.00x | baseline |
