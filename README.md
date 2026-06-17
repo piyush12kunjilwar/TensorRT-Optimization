@@ -47,7 +47,7 @@ After TRT:   RMSNorm+Linear+SwiGLU+Linear
 - L4 GPU has dedicated FP16 matrix multiply hardware
 - TRT routes all matmuls to tensor cores automatically
 - 10x+ faster than FP32 CUDA cores for same operation
-
+   
 ### 4. Memory Optimization
 - Tensor reuse across layers
 - In-place operations where safe   
