@@ -49,7 +49,7 @@ After TRT:   RMSNorm+Linear+SwiGLU+Linear
 - 10x+ faster than FP32 CUDA cores for same operation
    
 ### 4. Memory Optimization
-- Tensor reuse across layers
+- Tensor reuse across layers  
 - In-place operations where safe   
 - Optimal memory layout per operation
 - Eliminates redundant allocations
