@@ -90,7 +90,7 @@ Production Inference: 0.267ms
 
 ---
 
-## Cross-Module Journey
+## Cross-Module Journey   
 
 | Module | Optimization | Result |
 |--------|-------------|--------|
